@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subjects>
+<subject name="Gk">
+<question>Who is india team captain ?</question>
+<answer>Virat Kohli</answer>
+<answer>Ms Dhoni</answer>
+<anwer>Shreyas Iyer</anwer>
+<question>Who is father of Nation?</question>
+<answer>Bose</answer>
+<answer>Gandhi</answer>
+<anwer>Modi</anwer>
+<question>Which city is capital of M.P?</question>
+<answer>jabalpur</answer>
+<answer>bhopal</answer>
+<anwer>indore</anwer>
+<question>Capital of inida is ?</question>
+<answer>Kolkata</answer>
+<answer>Delhi</answer>
+<anwer>Indore</anwer>
+<question>National game of india ?</question>
+<answer>cricket</answer>
+<answer>hockey</answer>
+<anwer>badminton</anwer>
+</subject>
+
+<subject name="Avengers">
+<question>Who is iron man?</question>
+<answer>chris evans</answer>
+<aswer>Robert jr</aswer>
+<answer>chris hemsworth</answer>
+<question>Who is captain america?</question>
+<answer>Scarlet johanson</answer>
+<aswer>Peter parker</aswer>
+<answer>chris evans</answer>
+<question>Which characterhave no super power?</question>
+<answer>Hawkai</answer>
+<aswer>black widow</aswer>
+<answer>Dr strange</answer>
+<question>Real name of black panther is?</question>
+<answer>Chadwik boseman</answer>
+<aswer>chris hemsworth</aswer>
+<answer>John cena</answer>
+<question>What name of spider man in movie?</question>
+<answer>chris evans</answer>
+<aswer>Peter parker</aswer>
+<answer>chris hemsworth</answer>
+
+</subject>
+
+//start new subbject like Science,IT,
+
+</subjects>
