@@ -7,6 +7,13 @@ public class Quiz {
 	private String option2;
 	private String option3;
 	private String option4;
+	private String correct;
+	public String getCorrect() {
+		return correct;
+	}
+	public void setCorrect(String correct) {
+		this.correct = correct;
+	}
 	public int getId() {
 		return id;
 	}
@@ -47,7 +54,7 @@ public class Quiz {
 	@Override
 	public String toString() {
 		return "Quiz [id=" + id + ", question=" + question + ", option1=" + option1 + ", option2=" + option2
-				+ ", option3=" + option3 + ", option4=" + option4 + "]";
+				+ ", option3=" + option3 + ", option4=" + option4 + ",correct=" + correct+ "]";
 	}
 
 	

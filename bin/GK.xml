@@ -7,6 +7,7 @@
 <Option2>Ms Dhoni</Option2>
 <Option3>Shreyas Iyer</Option3>
 <Option4>Shikhar Dhawan</Option4>
+<Correct>Virat Kohli</Correct>
 </Question>
 <Question>
 <id>2</id>
@@ -15,6 +16,7 @@
 <Option2>Gandhi</Option2>
 <Option3>Modi</Option3>
 <Option4>kejriwal</Option4>
+<Correct>Gandhi</Correct>
 </Question>
 <Question>
 <id>3</id>
@@ -23,6 +25,7 @@
 <Option2>Indore</Option2>
 <Option3>Bhopal</Option3>
 <Option4>Shahdol</Option4>
+<Correct>Bhopal</Correct>
 </Question>
 <Question>
 <id>4</id>
@@ -31,6 +34,7 @@
 <Option2>Mumbai</Option2>
 <Option3>Jaipur</Option3>
 <Option4>Nagpur</Option4>
+<Correct>Delhi</Correct>
 </Question>
 <Question>
 <id>5</id>
@@ -39,6 +43,7 @@
 <Option2>Football</Option2>
 <Option3>BasketBall</Option3>
 <Option4>Hockey</Option4>
+<Correct>Hockey</Correct>
 </Question>
 <Question>
 <id>6</id>
@@ -47,6 +52,7 @@
 <Option2>Europe</Option2>
 <Option3>Africa</Option3>
 <Option4>America</Option4>
+<Correct>Asia</Correct>
 </Question>
 <Question>
 <id>7</id>
@@ -55,6 +61,7 @@
 <Option2>Kidney</Option2>
 <Option3>Liver</Option3>
 <Option4>Skin</Option4>
+<Correct>Skin</Correct>
 </Question>
 <Question>
 <id>8</id>
@@ -63,6 +70,7 @@
 <Option2>Shark</Option2>
 <Option3>Tuna</Option3>
 <Option4>Turtle</Option4>
+<Correct>Blue Whale</Correct>
 </Question>
 <Question>
 <id>9</id>
@@ -71,6 +79,7 @@
 <Option2>Jupter</Option2>
 <Option3>Saturn</Option3>
 <Option4>Mars</Option4>
+<Correct>Jupiter</Correct>
 </Question>
 <Question>
 <id>10</id>
@@ -79,6 +88,7 @@
 <Option2>Subhash Chandra Bose</Option2>
 <Option3>Mahatma Gandhi</Option3>
 <Option4>Nehru</Option4>
+<Correct>Mahatma Gandhi</Correct>
 </Question>
 
 

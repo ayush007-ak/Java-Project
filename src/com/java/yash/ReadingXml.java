@@ -55,6 +55,7 @@ public class ReadingXml {
             user.setOption2(getTagValue("Option2", element));
             user.setOption3(getTagValue("Option3", element));
             user.setOption4(getTagValue("Option4",element));
+            user.setCorrect(getTagValue("Correct",element));
         }
         return user;
     }
