@@ -41,6 +41,37 @@ public class ReadingXml {
         } catch (SAXException | ParserConfigurationException | IOException e1) {
             e1.printStackTrace();
         }
+        
+        //new subject file of Database
+        String fileLocation = "D:\\JavaWorkspace\\Java Project1\\src\\Database.xml";
+        File DbFile = new File(fileLocation);
+        DocumentBuilderFactory dbFactory2 = DocumentBuilderFactory.newInstance();
+        DocumentBuilder dBuilder2;
+        
+        
+        try {
+        	dBuilder2= dbFactory2.newDocumentBuilder();
+        	Document doc = dBuilder2.parse(DbFile);
+        	doc.getDocumentElement().normalize();
+            System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
+            System.out.println("-----------------DBMS QUESTIONS-----------------------");
+            NodeList nodeList = doc.getElementsByTagName("Question");
+        	
+            List < Quiz > quesList = new ArrayList < Quiz > ();
+
+            for (int i = 0; i < nodeList.getLength(); i++) {
+                quesList.add(getUser(nodeList.item(i)));
+            }
+            // lets print User list information
+            for (Quiz ques: quesList) {
+                System.out.println(ques.toString());
+            }
+
+        }catch (SAXException | ParserConfigurationException | IOException e1){
+        	e1.printStackTrace();
+        }
+        
+        
 
 	}
 	
